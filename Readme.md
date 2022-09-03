@@ -5,7 +5,7 @@
 In this Project, i have used HTML and CSS to create a beautiful ***Portfolio*** website's Landing page.  
 As a beginner project, i have lerned lots of new CSS  concepts like- position display-properties, Flex-Box and Border-radius. Also started using CSS Globally without crowding HTML code. 
 
-## [***Project-live-Link-->***](portfoilohomepage.netlify.app) 
+## [***Project-live-Link-->***](https://portfoilohomepage.netlify.app/) 
 
 ## <span style="color:red"> **Website Preview-->**</span>
 ![Home-Page](./assets/Thumbnail.png)
